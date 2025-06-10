@@ -1,6 +1,6 @@
 # FastAPI Starter Template
 
-A production-ready template for building FastAPI applications with PostgreSQL, SQLAlchemy, JWT authentication, and modern best practices.
+A production-ready template for building FastAPI applications with PostgreSQL, SQLAlchemy, and modern best practices.
 
 ## Features
 
